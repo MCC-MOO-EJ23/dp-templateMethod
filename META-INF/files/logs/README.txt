@@ -1,0 +1,1 @@
+Directorio bitacora de aplicacion de transacciones
